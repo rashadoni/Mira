@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+.env
+recordings/
+*.wav
+Mira.app/
+build/
+dist/
+*.spec
+*.log
+.mira.lock
+.mira.pid
